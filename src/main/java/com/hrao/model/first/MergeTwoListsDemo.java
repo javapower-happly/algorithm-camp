@@ -1,5 +1,9 @@
 package com.hrao.model.first;
 
+/**
+ * 合并两个有序的链表
+ * 实现方法为:递归方式
+ */
 public class MergeTwoListsDemo {
 
 
