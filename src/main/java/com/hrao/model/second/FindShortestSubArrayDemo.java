@@ -11,7 +11,7 @@ public class FindShortestSubArrayDemo {
 
     public static void main(String[] args) {
 
-        int[] nums = {1,1,2,2,4,4,4,1};
+        int[] nums = {1, 1, 2, 2, 4, 4, 4, 1};
         System.out.println(findShortestSubArray(nums));
     }
 
